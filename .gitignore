@@ -1,0 +1,22 @@
+# Maven
+target/
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
